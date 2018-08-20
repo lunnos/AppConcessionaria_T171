@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Concessionária</string>
+    <string name="txtMarca">Brand: </string>
+    <string name="txtModelo">Model: </string>
+    <string name="txtTipo">Type: </string>
+    <string name="txtPassageiro">Passenger</string>
+    <string name="txtCarga">Load</string>
+
+    <string name="selecione">Select...</string>
+
+    <string name="hintModelo">Enter here the model:</string>
+
+
+
+</resources>
